@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://docs.docker.com/" target="blank"><img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" width="330" alt="Flutter Logo" /></a>
 </p>
-# TALLER DE DESARROLLO DE APLICACIONES PARA DISPOSITIVOS MOVILES
+TALLER DE DESARROLLO DE APLICACIONES PARA DISPOSITIVOS MOVILES
 # Flutter Móvil - Instalaciones recomendadas
 
 # Instalaciones en el equipo
